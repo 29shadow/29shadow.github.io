@@ -87,6 +87,9 @@ $ hexo d #会把这个public文件夹的东西拷贝到.deploy_git文件夹里�
 
 #4.访问地址可查看文件（有一定的延迟）
 https://29shadow.github.io
+
+#5.删除文章
+到source\_posts文件夹下直接删除
 ```
 
 ## 扩展
